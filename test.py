@@ -79,7 +79,5 @@ plt.title('Matriz de Confusión - CNN')
 plt.show()
 
 # Guardar modelo
-model.save('mnist_model.h5')
+model.save('mnist_model.keras')
 print("\nModelo guardado correctamente.")
-
-print("\n¡Código mejorado y listo para el informe!")
