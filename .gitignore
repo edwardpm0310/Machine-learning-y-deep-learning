@@ -1,0 +1,10 @@
+# Archivos ignorados
+__pycache__/
+*.pyc
+*.pyo
+*.h5
+*.keras
+*.log
+.DS_Store
+.vscode/
+.idea/
